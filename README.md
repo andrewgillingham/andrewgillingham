@@ -33,5 +33,9 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=andrewgillingham&hide=stars&count_private=true&theme=cobalt" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewgillingham&theme=cobalt&layout=compact" />
+<span>
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=andrewgillingham&hide=stars&count_private=true&theme=cobalt" />
+</span>
+<span>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewgillingham&theme=cobalt&layout=compact" />
+</span>
