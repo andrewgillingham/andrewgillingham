@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔧 Technologies & Tools
+
+![Linux Badge](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![VS Code Badge](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
