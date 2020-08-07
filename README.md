@@ -37,5 +37,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=andrewgillingham&hide=stars&count_private=true&theme=cobalt" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewgillingham&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewgillingham&theme=cobalt&layout=compact" />
 </a>
