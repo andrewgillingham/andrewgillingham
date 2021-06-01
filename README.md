@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🔧 Technologies & Tools
 
-![Linux Badge](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![MacOs Badge](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![VS Code Badge](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![Bash Badge](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
