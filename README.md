@@ -30,12 +30,3 @@ Here are some ideas to get you started:
 
 ![WordPress Badge](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 ![Craft Badge](https://img.shields.io/badge/CMS-Craft-informational?style=flat&logo=craft-cms&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
-
-<span>
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=andrewgillingham&hide=stars&count_private=true&theme=cobalt" />
-</span>
-<span>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewgillingham&theme=cobalt&layout=compact" />
-</span>
